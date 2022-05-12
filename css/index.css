@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+:root {
+    --primary: #ddd;
+    --dark: #333;
+    --light: #fff;
+    --shadow: 0 7px 15px rgba(104. 104, 104, 0.8);
+}
+
+.wrapper {
+    display: grid;
+    gap: 20px;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--dark);
+}
+
+body {
+/*    background: #ccc; */
+    background: url('https://www.youtube.com/watch?v=mnWwJO4WAqY');
+    margin: 20px 20px;
+    line-height: 1.4em;
+}
+
+.main-nav ul {
+    display: grid;
+    gap: 120px;
+    padding: 10px;
+    list-style: none;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+
+.main-nav a {
+    background: var(--primary);
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    color: var(--dark);
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: var(--shadow);
+    border-radius: 0px 0px 0px 0px;
+    /*border-radius: 50%;*/
+}
+
+.main-nav a:hover {
+    background: black;
+    color: white;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+  /* Add some content at the bottom of the video/page */
+.content {
+    position: fixed;
+    top: 20px;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color:rgb(22, 22, 22)
+}
+
