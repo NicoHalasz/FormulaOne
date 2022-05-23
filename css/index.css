@@ -53,22 +53,39 @@ body {
     color: white;
 }
 
-/* Style the video: 100% width and height to cover the entire window */
-#myVideo {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%; 
-    min-height: 100%;
+.video-container{
+    width: 100vw;
+    height: 100vh;
 }
 
-  /* Add some content at the bottom of the video/page */
-.content {
-    position: fixed;
-    top: 20px;
-    color: #f1f1f1;
-    width: 100%;
-    padding: 20px;
+iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100vw;
+    height: 100vh;
+    transform: translate(-50%, -50%);
+}
+
+@media (min-aspect-ratio: 16/9) {
+    .video-container iframe {
+      /* height = 100 * (9 / 16) = 56.25 */
+    height: 56.25vw;
+    }
+}
+@media (max-aspect-ratio: 16/9) {
+    .video-container iframe {
+      /* width = 100 / (9 / 16) = 177.777777 */
+    width: 177.78vh;
+    }
+}
+
+#text{
+    position: absolute;
+    color: #FFFFFF;
+    left: 450px;
+    top: 330px;
+    transform: translate(-50%, -50%);
 }
 
 h1{
@@ -79,3 +96,10 @@ h2{
     color:rgb(22, 22, 22)
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 5rem;
+}
