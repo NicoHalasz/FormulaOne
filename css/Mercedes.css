@@ -108,7 +108,7 @@ section.p1 {
 
 section.p2 {
     grid-area: p2;
-    background-image: url('../images/LewisHamilton.jpeg');
+    background-image: url('../images/LewisHamilton.jpg');
     object-fit: cover;
     background-position: center;
     background-repeat: no-repeat;
