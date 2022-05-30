@@ -43,12 +43,12 @@ body {
 }
 
 .main-nav a {
-    background: #FFFFFF;
+    background: #F9F2F2;
     display: block;
     text-decoration: none;
     padding: 0.5rem;
     text-align: center;
-    color: #041E42;
+    color: #111111;
     font-weight: bold;
     text-transform: uppercase;
     box-shadow: var(--shadow);
@@ -57,16 +57,16 @@ body {
 }
 
 .main-nav a:hover {
-    background: #041E42;
-    color: #FFFFFF;
+    background: #111111;
+    color: #F9F2F2;
 }
 
 header h2:hover {
-    color: #981E32;
+    color: #F62039;
 }
 
 header p:hover {
-    color:#E40046;
+    color:#981E32;
 }
 
 
@@ -139,9 +139,9 @@ section.t3 {
 }
 
 header h3:hover {
-    color:#00A3E0;
+    color:#981E32;
 }
 
 h2:hover {
-    color: #E40046;
+    color: #F62039;
 }
