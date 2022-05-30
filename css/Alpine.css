@@ -108,7 +108,7 @@ section.p1 {
 
 section.p2 {
     grid-area: p2;
-    background-image: url('../images/EstebanOcon.jpg');
+    background-image: url('../images/FernandoAlonso.jpg');
     object-fit: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -118,7 +118,7 @@ section.p2 {
 
 section.p3 {
     grid-area: p3;
-    background-image: url('../images/FernandoAlonso.jpg');
+    background-image: url('../images/EstebanOcon.jpg');
     object-fit: cover;
     background-position: center;
     background-repeat: no-repeat;
