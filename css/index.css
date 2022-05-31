@@ -83,7 +83,7 @@ iframe {
 #text{
     position: absolute;
     color: #FFFFFF;
-    left: 450px;
+    left: 460px;
     top: 330px;
     transform: translate(-50%, -50%);
 }
@@ -102,4 +102,27 @@ h2{
     justify-content: center;
     height: 100%;
     padding: 5rem;
+}
+
+.language a {
+    background:rgb(100, 0, 0);
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: var(--shadow);
+    border-radius: 17px 17px 17px 17px;
+    size: 50px 50p;
+    /*border-radius: 50%;*/
+}
+
+.language ul {
+    display: grid;
+    gap: 120px;
+    padding: 10px;
+    list-style: none;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
