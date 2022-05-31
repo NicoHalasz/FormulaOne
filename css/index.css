@@ -126,3 +126,8 @@ h2{
     list-style: none;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.language a :hover {
+    color:rgb(100, 0, 0);
+    background: black;
+}
