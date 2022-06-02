@@ -20,8 +20,9 @@ html {
 
 body {
 /*    background: #ccc; */
-    margin: 20px 20px;
+    margin:0px 0px;
     line-height: 1.4em;
+    height: 100vh;
 }
 
 .main-nav ul {
@@ -127,7 +128,7 @@ h2{
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-.language a :hover {
-    color:rgb(100, 0, 0);
-    background: black;
+.language a:hover {
+    background: rgb(0, 0, 0);
+    color: rgb(100, 0, 0);
 }
