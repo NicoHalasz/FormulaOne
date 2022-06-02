@@ -1,3 +1,3 @@
 # FormulaOne
 
-Issue withscrolling on home page
+Issue with scrolling on home page
