@@ -94,7 +94,7 @@ section.grid-head {
 section.grid-footer {
     grid-area: grid-footer;
     background: #B22222;
-    border-radius: 25px 25px 0px 0px;
+    border-radius: 0px 0px 25px 25px;
 }
 
 section.p1 {
