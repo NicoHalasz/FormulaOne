@@ -87,13 +87,13 @@ body {
 
 section.grid-head {
     grid-area: grid-head;
-    background: #779743;
+    background: #B22222;
     border-radius: 25px 25px 0px 0px;
 }
 
 section.grid-footer {
     grid-area: grid-footer;
-    background: #30658A;
+    background: #B22222;
 }
 
 section.p1 {

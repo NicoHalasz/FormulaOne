@@ -81,7 +81,7 @@ body {
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 3fr 3fr 3fr 3fr 1fr;
     grid-template-areas: "grid-head grid-head grid-head" "p1 p2 p3" "p4 p5 p6" "p7 p8 p9" "t1 p10 t2" "grid-footer grid-footer grid-footer";
-    height: 100vh;
+    height: 120vh;
     margin: 1em;    
 }
 
