@@ -14,4 +14,4 @@ My project is about formula one.
   * asdf
 
 * Layout
- ** This is the layout of the home page
+ * This is the layout of the home page
