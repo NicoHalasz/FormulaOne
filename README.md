@@ -10,7 +10,8 @@ My project is about formula one.
 ### Members of the development team
 
 ### The design
-*Colour
-  *asdf
+* Colour
+  * asdf
 
-*Layout
+* Layout
+ ** This is the layout of the home page
