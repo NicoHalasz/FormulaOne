@@ -58,7 +58,7 @@ body {
 
 .main-nav a:hover {
     background: red;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 header h2:hover {
@@ -160,5 +160,5 @@ p {
 }
 
 header h3:hover {
-    color: rgb(51, 0, 255);
+    color: rgb(255, 0, 0);
 }

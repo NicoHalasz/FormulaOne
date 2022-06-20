@@ -58,7 +58,7 @@ body {
 
 .main-nav a:hover {
     background: red;
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
 }
 
 header h2:hover {
