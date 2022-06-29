@@ -111,3 +111,14 @@ This is the Alfa Romeo page in maori
 This is the Haas page in maori
 <img width="1280" alt="Screen Shot 2022-06-29 at 6 48 01 PM" src="https://user-images.githubusercontent.com/103463243/176370530-ef05519f-f620-498b-be83-2702689c012e.png">
 <img width="1280" alt="Screen Shot 2022-06-29 at 6 48 08 PM" src="https://user-images.githubusercontent.com/103463243/176370552-b8359fe1-c5c0-44c2-9776-5541421eca97.png">
+
+### What didnt work so well
+* In opera gx and safari the home and teams pages look distorted and strange (way more in safari though)
+* Maori translations sometimes inaccurate
+* Couldent use the backround videos I originally wanted to due to the channel blocking the ability to embed it
+* When I shrunk the width of the page I could only acsess the questions page from the home page
+* When i shrunk the width the text on the home page was places in the middle of the screen instead of the left
+
+### Feedback from other student
+* Fraser O'regan-smith
+Fraser said "I thought it was very good, informative had good quality information, and it also got me interested in f1"
