@@ -19,7 +19,6 @@ html {
 }
 
 body {
-/*    background: #ccc; */
     margin:0px 0px 0px 0px;
     line-height: 1.4em;
     height: 100vh;
@@ -84,7 +83,7 @@ iframe {
 #text{
     position: absolute;
     color: #FFFFFF;
-    left: 470px;
+    left: 450px;
     top: 290px;
     transform: translate(-50%, -50%);
 }
