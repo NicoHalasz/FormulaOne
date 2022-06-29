@@ -96,3 +96,18 @@ This is the Mclarn page in maori
 This is the Alpine page in maori
 <img width="1280" alt="Screen Shot 2022-06-29 at 6 40 28 PM" src="https://user-images.githubusercontent.com/103463243/176369351-d42da4b7-48d6-4c1a-8743-b3058caf3cef.png">
 <img width="1280" alt="Screen Shot 2022-06-29 at 6 40 18 PM" src="https://user-images.githubusercontent.com/103463243/176369381-9f51a7a3-5d0a-4d22-9711-21d7db1fcba7.png">
+This is the Alpha Tauri page in maori
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 46 31 PM" src="https://user-images.githubusercontent.com/103463243/176370241-6c139683-9b5b-455d-a5f6-40c995882c23.png">
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 46 41 PM" src="https://user-images.githubusercontent.com/103463243/176370273-720e1180-9504-4dfd-8ecf-c685344745bb.png">
+This is the Aston Martin page in maori
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 46 59 PM" src="https://user-images.githubusercontent.com/103463243/176370296-a411c2e4-7add-435d-b4df-2af672f4cb13.png">
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 47 07 PM" src="https://user-images.githubusercontent.com/103463243/176370333-98ffa5f4-3aad-4e82-b4e2-e9e2565001e7.png">
+This is the Williams Racing page in maori
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 47 16 PM" src="https://user-images.githubusercontent.com/103463243/176370368-4b1610e4-1bf8-4a17-bf7b-797115e63c7c.png">
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 47 22 PM" src="https://user-images.githubusercontent.com/103463243/176370428-64e9a1cf-f87c-47b3-bc24-fd60d7ab8e9b.png">
+This is the Alfa Romeo page in maori
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 47 29 PM" src="https://user-images.githubusercontent.com/103463243/176370464-62a09642-8330-45f9-884e-2b0ef4c47730.png">
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 47 47 PM" src="https://user-images.githubusercontent.com/103463243/176370498-eae114df-fe94-4858-813c-f5a8007e3e3c.png">
+This is the Haas page in maori
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 48 01 PM" src="https://user-images.githubusercontent.com/103463243/176370530-ef05519f-f620-498b-be83-2702689c012e.png">
+<img width="1280" alt="Screen Shot 2022-06-29 at 6 48 08 PM" src="https://user-images.githubusercontent.com/103463243/176370552-b8359fe1-c5c0-44c2-9776-5541421eca97.png">
